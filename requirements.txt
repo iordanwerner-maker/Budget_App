@@ -1,11 +1,3 @@
-
----
-
-## 📦 requirements.txt
-
-Voici les dépendances nécessaires :
-
-```txt
 streamlit
 pandas
 plotly
