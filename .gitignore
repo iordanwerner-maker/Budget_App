@@ -1,0 +1,12 @@
+# Base de données
+   data/budget.db
+   data/*.db
+   
+   # Fichiers Python
+   __pycache__/
+   *.pyc
+   *.pyo
+   
+   # Environnement virtuel (si vous en utilisez un)
+   venv/
+   env/
